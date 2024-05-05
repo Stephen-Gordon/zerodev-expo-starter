@@ -3,6 +3,8 @@
 ## Description
 
 A starter template for React Native, with ZeroDev, Viem, Expo, and TypeScript.
+Currently workinh on Mobile, Android, Expo Go
+Web is not currently working
 
 ## Start
 
